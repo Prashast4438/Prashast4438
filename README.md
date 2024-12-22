@@ -36,10 +36,6 @@ Here are the technologies and tools I am proficient in:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### Security
-![DevSecOps](https://img.shields.io/badge/DevSecOps-3E7BFA?style=flat&logo=jenkins&logoColor=white)
-![Web Security](https://img.shields.io/badge/Web%20Security-4E8BC5?style=flat&logo=security&logoColor=white)
-
 ### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -50,6 +46,10 @@ Here are the technologies and tools I am proficient in:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+### Future Interests
+![DevSecOps](https://img.shields.io/badge/DevSecOps-3E7BFA?style=flat&logo=jenkins&logoColor=white)
+![Web Security](https://img.shields.io/badge/Web%20Security-4E8BC5?style=flat&logo=security&logoColor=white)
 
 ---
 
@@ -63,17 +63,11 @@ Here are the technologies and tools I am proficient in:
 
 - Email: [nigamprashast@gmail.com](mailto:nigamprashast@gmail.com)
 - LinkedIn: [Prashast Nigam](https://www.linkedin.com/in/prashast-nigam/)
-- Twitter: [@Prashast_Nigam](https://twitter.com/Prashast_Nigam)
+
 
 ---
 
-## 🌱 Current Learning
 
-- **DevSecOps**: Focusing on integrating security in the DevOps lifecycle.
-- **Web Application Security**: Learning the best practices to build secure web applications.
-- **Blockchain Development**: Deepening knowledge in smart contracts and decentralized applications.
-
----
 
 ## 🔧 Contribution
 
