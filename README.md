@@ -55,7 +55,7 @@ Here are the technologies and tools I am proficient in:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashastnigam&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prashast4438&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
 
 ---
 
