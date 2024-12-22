@@ -20,7 +20,7 @@ Here are the technologies and tools I am proficient in:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-563d7c?style=flat&logo=bootstrap&logoColor=white)
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
@@ -53,11 +53,7 @@ Here are the technologies and tools I am proficient in:
 
 ---
 
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prashast4438&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
-
----
 
 ## 📫 How to Reach Me
 
