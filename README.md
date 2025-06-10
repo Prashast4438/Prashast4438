@@ -93,12 +93,7 @@ I love exploring new technologies, solving complex problems, and contributing to
 - 👯 I'm looking to collaborate on **Blockchain** and **Full-Stack** projects
 - 🥅 2025 Goals: Contribute more to **Open Source** projects
 
-## 📂 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/Prashast4438/Customs_on_board">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prashast4438&repo=Customs_on_board&theme=tokyonight&hide_border=true" />
-  </a>
   <!-- Add more featured projects as needed -->
 </div>
 
