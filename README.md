@@ -1,7 +1,7 @@
 # 👨‍💻 Prashast Nigam
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2E9EF4&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Blockchain+Enthusiast;Security+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2E9EF4&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Blockchain+Developer;CyberSecurity+Enthusiast;" alt="Typing SVG" />
 </div>
 
 <p align="center">
