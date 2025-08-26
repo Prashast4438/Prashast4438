@@ -106,7 +106,7 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
     <a href="mailto:nigamprashast@gmail.com">
       <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/prashast-nigam/">
+    <a href="https://https://www.linkedin.com/authwall?trk=gf&trkInfo=AQH_uqW6_lwJhgAAAZjl2q94_pmt-WxMXGV3d-EioVyk7qgHKnYnGLlk2E321BcFtqbarlQOKd7rpkw_qSjKWQd0OYn9gfEz4tDmcfwRAngyMCQDgr5B_17JHliDL76SiAWUVAk=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fprashast-nigam-610040241">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </p>
