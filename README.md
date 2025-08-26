@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:nigamprashast@gmail.com"><img src="https://img.shields.io/badge/Email-nigamprashast%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/prashast-nigam/"><img src="https://img.shields.io/badge/LinkedIn-Prashast_Nigam-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="www.linkedin.com/in/prashast-nigam-610040241"><img src="https://img.shields.io/badge/LinkedIn-Prashast_Nigam-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ## 🚀 About Me
