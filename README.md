@@ -89,7 +89,7 @@ I love exploring new technologies, solving complex problems, and contributing to
 
 ## 🔥 Current Focus
 
-- 🌱 I'm currently learning **DevSecOps** and **Web Security**
+- 🌱 I'm currently learning **Agentic AI** and **Web Security**
 - 👯 I'm looking to collaborate on **Blockchain** and **Full-Stack** projects
 - 🥅 2025 Goals: Contribute more to **Open Source** projects
 
