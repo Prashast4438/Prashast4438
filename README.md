@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I am a **third-year BTech** student in **Computer Science Engineering**, passionate about **Web Development**, **Blockchain**, and **DevSecOps**. I enjoy building scalable applications, optimizing code, and exploring new technologies to create meaningful solutions.
+I am a **third-year BTech** student in **Computer Science Engineering**, passionate about **Web Development**, **Blockchain**, and **CyberSecurity**. I enjoy building scalable applications, optimizing code, and exploring new technologies to create meaningful solutions.
 
 <details>
 <summary>More about me...</summary>
